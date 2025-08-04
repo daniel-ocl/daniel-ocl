@@ -1,16 +1,25 @@
-## Hi there 👋
+# Daniel Ocl – Aspiring Data Scientist
 
-<!--
-**daniel-ocl/daniel-ocl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a recent graduate from UT Austin with a B.S. in Mathematics. I’m passionate about using data, mathematics, and analytical thinking to solve real-world problems. My goal is to grow into a data scientist role, leveraging my academic background and hands-on technical skills.
 
-Here are some ideas to get you started:
+## 👨‍🎓 Education
+- **B.S. Mathematics**, University of Texas at Austin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Interests
+- Data Science
+- Machine Learning
+- Statistical Analysis
+- Python & R
+- Visualization & Storytelling with Data
+
+## 🚀 Projects
+*(Add your projects here!)*
+
+## 📫 Contact
+- [Email](mailto:your@email.com)
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [GitHub](https://github.com/daniel-ocl)
+
+---
+
+*This repository is a showcase of my journey and work as I pursue a career in data science. Feel free to check out my projects and connect!*
