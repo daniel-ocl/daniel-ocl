@@ -1,4 +1,4 @@
-# Daniel Ocl – Aspiring Data Scientist
+# Daniel O'Cleirigh
 
 Hi! I’m a recent graduate from UT Austin with a B.S. in Mathematics. I’m passionate about using data, mathematics, and analytical thinking to solve real-world problems. My goal is to grow into a data scientist role, leveraging my academic background and hands-on technical skills.
 
